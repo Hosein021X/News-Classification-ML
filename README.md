@@ -1,6 +1,6 @@
 # News Classification ML 📰
 
-This project classifies 100k news articles into 10 categories with an **82.5% Macro F1-score**.
+This project classifies 100k news articles into 10 categories with an **82.5% Macro F1-score with Regression model**.
 
 ##  Structure
 - `src/`: Contains the preprocessing logic, model architecture, and main execution script.
